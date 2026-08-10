@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-xs5cb3.salamcuanwin.cfd/sitemap.xml
